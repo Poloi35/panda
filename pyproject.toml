@@ -1,10 +1,10 @@
 [project]
-name = "panda"
+name = "pytorche"
 version = "0.0.1"
 authors = [
   { name="poloi", email="poloi@realemail.com" },
 ]
-description = "panda dataframe tkt"
+description = "pytorche ia tkt"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
