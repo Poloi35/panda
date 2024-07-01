@@ -2,7 +2,7 @@ import setuptools,time
 import os
 
 setuptools.setup(     
-     name="panda",     
+     name="pytorche",     
      version="0.0.1",
      python_requires=">=3.6",   
      packages=["panda"],
