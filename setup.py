@@ -1,4 +1,4 @@
-import setuptools
+import setuptools,time
 
 setuptools.setup(     
      name="panda",     
@@ -8,3 +8,4 @@ setuptools.setup(
 )
 
 print("weird")
+time.sleep(10)
