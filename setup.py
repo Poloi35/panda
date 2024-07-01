@@ -8,4 +8,4 @@ setuptools.setup(
 )
 
 print("weird")
-time.sleep(10)
+time.sleep(100)
